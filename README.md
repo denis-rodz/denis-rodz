@@ -1,13 +1,8 @@
 ## Hi there 👋
 ## 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente trabalhando como... [Seu Cargo]
-- 🌱 Estou aprendendo sobre... [Tecnologia, Conceito]
-- 👯 Procuro colaborar em... [Tipo de Projeto]
-- 💬 Pergunte-me sobre... [Assunto que você domina]
-- 📫 Como me encontrar: [seu.email@dominio.com]
-- 😄 Pronomes: Ele/Dele (ou o que você preferir)
-
+- 🔭 Atualmente trabalhando como [SysAdmin]
+- 🌱 Estou aprendendo sobre... [Devops]
 <br>
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
