@@ -2,9 +2,9 @@
 ## 👨‍💻 Sobre Mim
 
 - 🔭 Atualmente trabalho como **Analista de Suporte TI /  **Administrador Jira**.
-- 🌱 Estou focado em aprofundar meus conhecimentos em: **DevOps, AWS, Terraform, Kubernetes e Golang**.
+- ⚡ Estou focado em aprofundar meus conhecimentos em: **DevOps, AWS, Terraform, Kubernetes e Golang**.
 - 👯 Procuro colaborar em projetos de automação de infraestrutura (IaC) e otimização de pipelines CI/CD.
-- ⚡ Curiosidade: Nas horas vagas, você pode me encontrar pedalando, correndo ou aproveitando a praia.
+- 🌱  Curiosidade: Nas horas vagas, você pode me encontrar pedalando, correndo ou aproveitando a praia.
 <br>
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
