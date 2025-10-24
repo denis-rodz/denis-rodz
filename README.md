@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👨‍💻 Sobre Mim
 
 - 🔭 Atualmente trabalho como **Analista de Suporte TI /  **Administrador Jira**.
